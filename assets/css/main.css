@@ -3826,3 +3826,26 @@
 		background-image: url('images/programming-1873854_1280.png');
 		background-size: cover;
 	}
+
+	#code {
+	    margin-top: 150px;
+	    border-radius: 5px;
+	    width: 750px;
+	    margin: 0 auto;
+	    padding: 20px;
+	    font-size: 30px;
+	    background: #ccc;
+	    height: 100%;
+	    font-family: 'Monaco', 'Courier New';
+	    text-align: left;
+	    font-size: 13px;
+	    color: #fafafa;
+	}
+
+	#console {
+	    width: 710px;
+	    padding: 40px;
+	    height: 100%;
+	    margin: 0 auto;
+	    background: #383737;
+	}
