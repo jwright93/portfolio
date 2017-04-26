@@ -3821,3 +3821,8 @@
 	#live, #github {
 		font-size: 12;
 	}
+
+	#banner {
+		background-image: url('images/programming-1873854_1280.png');
+		background-size: contain;
+	}
