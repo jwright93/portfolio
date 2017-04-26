@@ -3817,3 +3817,7 @@
 		border-radius: 50%;
 		padding-bottom: 25px;
 	}
+
+	#live, #github {
+		font-size: 12;
+	}
